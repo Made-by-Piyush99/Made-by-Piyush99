@@ -139,26 +139,6 @@
 
 ---
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Made-by-Piyush99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub profile trophies" />
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Made-by-Piyush99&theme=tokyo-night&hide_border=true" alt="GitHub contribution activity graph" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
