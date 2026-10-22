@@ -1,73 +1,75 @@
  <div align="center">
 
-# ⚡ Hey, I'm Piyush!
+<!-- HERO SECTION -->
 
-### Full-Stack Developer · Creator · Problem Solver
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:242424&height=200&section=header&text=PIYUSH&fontSize=65&fontColor=00F5FF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Black developer banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Modern+Web+Experiences;Turning+Ideas+Into+Reality;Code.+Create.+Innovate." alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Piyush+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences;Code.+Create.+Innovate." alt="Animated introduction" />
 
 <p>
   <a href="https://github.com/Made-by-Piyush">
-    <img src="https://img.shields.io/badge/GitHub-Follow-00F7FF?style=for-the-badge&logo=github&logoColor=black" alt="Follow on GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Follow on GitHub" />
   </a>
-  <a href="#-featured-projects">
-    <img src="https://img.shields.io/badge/Explore-Projects-8A2BE2?style=for-the-badge&logo=rocket&logoColor=white" alt="Explore projects" />
+  <a href="https://github.com/Made-by-Piyush?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-Projects-FFFFFF?style=for-the-badge&logo=rocket&logoColor=black" alt="Explore projects" />
   </a>
   <a href="#-contact">
-    <img src="https://img.shields.io/badge/Contact-Me-FF4ECD?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
+    <img src="https://img.shields.io/badge/Contact-Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact me" />
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Made-by-Piyush&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Made-by-Piyush&label=PROFILE+VIEWS&color=00F5FF&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` — About Me
 
 ```javascript
 const piyush = {
-    role: "Full-Stack Developer",
-    passion: ["Web Development", "Creative Coding", "Problem Solving"],
-    mindset: "Always learning, always building",
-    goal: "Turn ideas into useful digital experiences"
+  role: "Full-Stack Developer",
+  focus: ["Frontend", "Backend", "Web Applications"],
+  mindset: "Build. Learn. Improve. Repeat.",
+  currentlyLearning: "New technologies and better solutions",
+  openTo: ["Collaboration", "Open Source", "New Ideas"]
 };
+
+console.log("Turning ideas into digital experiences.");
 ```
 
-- 🚀 Building modern and responsive web experiences.
-- 💡 Exploring new technologies and creative solutions.
-- 🎨 Interested in clean interfaces and smooth user experiences.
-- 🤝 Open to collaboration, exciting ideas, and open-source projects.
-- ⚡ Believer in learning by building real projects.
+- 💻 Passionate about building modern web applications.
+- ⚡ Interested in clean interfaces and useful digital products.
+- 🧠 Always exploring new tools and development techniques.
+- 🤝 Open to collaboration and interesting projects.
 
 ---
 
-## 🛠️ Tech Stack
+## `02` — Technology Arsenal
 
 <div align="center">
 
-### Languages
+**LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="HTML CSS JavaScript TypeScript and Python" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark" alt="HTML CSS JavaScript TypeScript Python" />
 
-### Frontend
+**FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="Frontend technologies" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,vite&theme=dark" alt="React Next.js Tailwind Bootstrap Vite" />
 
-### Backend & Database
+**BACKEND & DATABASE**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" alt="Backend and database technologies" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" alt="Node.js Express MongoDB MySQL PostgreSQL Firebase" />
 
-### Tools
+**TOOLS & WORKFLOW**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&theme=dark" alt="Git GitHub VS Code Postman Docker Linux" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## `03` — Featured Projects
 
 <div align="center">
 
@@ -75,27 +77,31 @@ const piyush = {
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Project One
+<h3>◈ Project Alpha</h3>
 
-A modern web application designed to solve a real-world problem.
+A modern application built to solve a real-world problem.
 
-**Tech:** `React` · `Node.js` · `MongoDB`
+<img src="https://img.shields.io/badge/STATUS-In_Development-555555?style=flat-square" alt="Project status" />
+
+<br/><br/>
 
 <a href="https://github.com/Made-by-Piyush">
-<img src="https://img.shields.io/badge/🚀_View_Project-00F7FF?style=for-the-badge&logoColor=black" alt="View project one" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="View Project Alpha" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Project Two
+<h3>◈ Project Nova</h3>
 
-A responsive application with a clean UI and useful features.
+A responsive web experience with a focus on functionality and design.
 
-**Tech:** `JavaScript` · `CSS` · `API`
+<img src="https://img.shields.io/badge/STATUS-Coming_Soon-555555?style=flat-square" alt="Project status" />
+
+<br/><br/>
 
 <a href="https://github.com/Made-by-Piyush">
-<img src="https://img.shields.io/badge/✨_Explore_Project-8A2BE2?style=for-the-badge&logoColor=white" alt="View project two" />
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="View Project Nova" />
 </a>
 
 </td>
@@ -103,25 +109,27 @@ A responsive application with a clean UI and useful features.
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 Project Three
+<h3>◈ Project Orbit</h3>
 
-A creative project showcasing development and design skills.
+An experimental project for learning and exploring new technologies.
 
-**Tech:** `HTML` · `CSS` · `JavaScript`
+<br/>
 
 <a href="https://github.com/Made-by-Piyush">
-<img src="https://img.shields.io/badge/💻_View_Code-FF4ECD?style=for-the-badge&logoColor=white" alt="View project three" />
+<img src="https://img.shields.io/badge/EXPLORE-333333?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project Orbit" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🔥 More Projects
+<h3>◈ All Repositories</h3>
 
-Discover my other experiments, projects, and open-source work.
+Explore my source code, experiments, and other projects.
+
+<br/>
 
 <a href="https://github.com/Made-by-Piyush?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories" />
+<img src="https://img.shields.io/badge/ALL_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="All repositories" />
 </a>
 
 </td>
@@ -132,35 +140,41 @@ Discover my other experiments, projects, and open-source work.
 
 ---
 
-## 🎯 What I'm Focused On
-
-<div align="center">
-
-| 🚀 Build | 🧠 Learn | ✨ Improve |
-|:---:|:---:|:---:|
-| Real-world projects | New technologies | Code quality |
-| Useful applications | Better architecture | UI and UX |
-| Creative solutions | Modern frameworks | Development skills |
-
-</div>
-
----
-
-## 🌐 Connect With Me
+## `04` — GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/Made-by-Piyush">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Made-by-Piyush&show_icons=true&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF&ring_color=00F5FF&include_all_commits=true" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/Made-by-Piyush">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Made-by-Piyush&layout=compact&hide_border=true&bg_color=000000&title_color=00F5FF&text_color=FFFFFF" alt="Most used languages" />
+</a>
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Made-by-Piyush&hide_border=true&background=000000&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## `05` — Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Made-by-Piyush">
+<img src="https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub" />
 </a>
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=000000" alt="LinkedIn" />
 </a>
 <a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000" alt="Portfolio" />
 </a>
 <a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/EMAIL-FFFFFF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Email" />
 </a>
 
 </div>
@@ -169,14 +183,16 @@ Discover my other experiments, projects, and open-source work.
 
 <div align="center">
 
-### 💫 Keep Building. Keep Growing.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=Keep+Building.;Keep+Learning.;Make+Something+Amazing." alt="Animated closing message" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=1200&color=8A2BE2&center=true&vCenter=true&width=500&lines=Dream+it.+Build+it.;One+commit+at+a+time.;Thanks+for+visiting+my+profile!" alt="Animated closing message" />
-
-**⭐ Thanks for stopping by! Let's build something awesome.**
+**Thanks for visiting my profile.** 
 
 <a href="https://github.com/Made-by-Piyush?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_Explore_My_GitHub-Click_Here-00F7FF?style=for-the-badge" alt="Explore my GitHub repositories" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_WORK-00F5FF?style=for-the-badge&logo=github&logoColor=black" alt="Explore my work" />
 </a>
 
+<sub>Designed with focus. Built with curiosity. Powered by code.</sub>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:242424,50:111111,100:000000&height=100&section=footer" width="100%" alt="Black footer banner" />
